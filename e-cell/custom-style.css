@@ -1,0 +1,23 @@
+.big-banner{
+      height: 500px;
+    background-image: url('e-n.jpg');
+    background-size: 100%;
+    /* justify-content: center; */
+}
+/* .big-banner p{
+    margin: 100px;
+} */
+.big-banner #h1{
+    margin:40px;
+}
+.big-banne{
+    height: 500px;
+  background-image: url('e.f');
+  background-size: 100%;
+  /* justify-content: center; */
+}
+.section{
+ 
+background-image: url('e.f.png');
+
+}
